@@ -10,11 +10,7 @@
 - [Data Sources](#data-sources)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ---
 
